@@ -2,7 +2,7 @@
   "name": "e-reymond.github.io",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://e-reymond.github.io/e-reymond.github.io",
+  "homepage": "https://e-reymond.github.io",
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
     "@testing-library/jest-dom": "^6.9.1",
