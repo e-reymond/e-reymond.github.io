@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App" style={{ fontFamily: "sans-serif" }}>
       <header style={{ padding: "60px 20px", background: "#f8f9fa" }}>
-        <h1>Reymond Espinosa</h1>
+        <h1>Reymond Hallazgo Espinosa</h1>
         <h2>IT Professional | Web Developer | Identity Governance Specialist</h2>
       </header>
 
